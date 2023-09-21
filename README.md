@@ -55,4 +55,4 @@ Gold Value Received Upon Defeat
 Damage
 Fire Rate
 Range
-Tower effects, including slowing, damage over time (poison, fire), armor penetration, magic penetration, and the area of a given effect's damage.
+Tower effects, including slowing, damage *over time* (poison, fire), armor penetration, magic penetration, and the area of a given effect's damage.
