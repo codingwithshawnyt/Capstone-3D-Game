@@ -6,7 +6,7 @@ A 3D tower defense game with 20 intriguing levels.
 Players aim to earn up to 3 stars by safeguarding their castle from damage.
 In-game rewards can be used for tower upgrades and special items to tackle tougher levels.
 Features 16 diverse tower upgrades, 4 unique special items, and 9 distinct enemy types, each with varying stats and resistances.
-You may load this game in Unity as a project to play.
+Go to the releases tab or [click here to play!](https://github.com/codingwithshawnyt/Capstone-3D-Game/releases/tag/v1.0.0)
 
 **Controls:**
 
